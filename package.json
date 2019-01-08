@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-root-css-custom-properties",
+  "version": "1.0.0",
+  "description": "Nuxt starter for CodeSandBox",
+  "author": "manniL",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt-edge": "latest"
+  },
+  "keywords": []
+}

@@ -1,0 +1,6 @@
+:root {
+  --smashing-red: #d33a2c;
+}
+.smashing-text {
+  color: var(--smashing-red);
+}
